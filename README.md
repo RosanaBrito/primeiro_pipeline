@@ -1,4 +1,4 @@
-# primeiro_pipeline
+# Pipeline com GitHub Actions
 
 ## Repositório de atividades do curso de GitHub Actions: Formação Básica do LinkedIn Learning 
 
