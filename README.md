@@ -12,3 +12,12 @@
 * pipeline multi-stage
 * environments
 * secrets em repositórios, ambientes e organização
+* variáveis
+* reusable workflows - entendendo e reutilizando pipelines reutilizáveis
+* enviando parâmentros para o pipeline
+* runners, runners hosted x self-hosted
+* runners hosted do GitHub
+* SO suportados pelo self-hosted runner
+* instalando runners no Windows
+* self-hosted runner: repositório x organização
+* utilizando self-hosted runner no pipeline
